@@ -24,6 +24,6 @@ public class Palindrome {
                 break;
             }
         }
-        System.out.println("Polindrome: " + result);
+        System.out.println("Palindrome: " + result);
     }
 }
